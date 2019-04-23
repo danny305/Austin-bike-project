@@ -8,3 +8,6 @@ Predicting total number of trips.ipynb - First we predicted the trip length by r
 
 Predicting trip length.ipynb - Next we tried to predict ride length by running a regression model.
 
+Membership Breakdown.ipynb - Take in the raw B-Cycle data and then observe the member type breakdown and average ride duration over time 
+
+Membership with Weather.ipynb - Attempt associating member type and weather (rain, temp, humidity) to cluster usage and predict how users ride  
