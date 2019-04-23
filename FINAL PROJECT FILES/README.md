@@ -2,6 +2,8 @@
 
 Project Report.pdf - The final project report, which was also turned in on Canvas.
 
+## Data files in the data folder
+
 ## Data exploration
 
 Cleaned_Data_Exploration.ipynb - Data exploration / visualization. Shows usage per day of the week, usage by month, distribution of ride duration, distribution of checkout time. Also shows bad kiosks (and removes these from the dataset). 
