@@ -4,10 +4,10 @@ Cleaned_Cycle_Trips_Weather_Data.csv - The data after we combined the trip data 
 
 Cycle_weather_by_day.csv - The data for cycle weather after we dropped unnecessary columns.
 
-Predicting total number of trips.ipynb - First we predicted the trip length by running a regression model.
+Predicting total number of trips.ipynb / .html - Darwin model built to predict the total number of B-Cycle rides in a day.
 
-Predicting trip length.ipynb - Next we tried to predict ride length by running a regression model.
+Predicting trip length.ipynb / .html - Darwin model built to predict the average trip length of B-Cycle rides in a day.
 
-Membership Breakdown.ipynb - Take in the raw B-Cycle data and then observe the member type breakdown and average ride duration over time 
+Membership Breakdown.ipynb - Data exploration / visualization. Take in the raw B-Cycle data and then observe the member type breakdown and average ride duration over time. We see that the makeup of membership type changes over the years.
 
-Member Ride Duration with Weather.ipynb - Attempt associating member type and weather (rain, temp, humidity) to cluster usage and predict how users ride  
+Member Ride Duration with Weather.ipynb - Failed attempt at associating member type and weather (rain, temp, humidity) to cluster usage and predict how users ride  
