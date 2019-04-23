@@ -10,7 +10,7 @@ Project Report.pdf - The final project report, which was also turned in on Canva
 
 Member Ride Duration with Weather.ipynb - Failed attempt at associating member type and weather (rain, temp, humidity) to cluster usage and predict how users ride  
 
-Data folder:
+## Files in the Data folder:
 
 Cleaned_Cycle_Trips_Weather_Data.csv - The data after we combined the trip data with weather data and removed unnecessary columns/incomplete records.
 
