@@ -13837,6 +13837,14 @@ dtype: float64
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<p>It is interesting to note is the features that are the most important. Firstly, the total number of rides in a day has a large effect on the average ride length. The other features are not too surprising: the high and average temperature (which may discourage riders), whether it is Friday or Saturday or Sunday (Weekday = 4, 5, 6), and the wind speed.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Predictions">Predictions<a class="anchor-link" href="#Predictions">&#182;</a></h2><p>In creating the model, Darwin previously withheld a portion of the dataset for testing. We use our model to predict the target column label (in this case, average trip length) on this testing set. We then download the predictions from Darwin's server.</p>
 
 </div>
@@ -13984,6 +13992,14 @@ dtype: float64
 </div>
 </div>
 
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Note that our $R^2 = 0.638$ score is not bad. Remember, however, that we excluded days with average trip durations longer than one hour, as these severely impacted the accuracy of our model.</p>
+
+</div>
+</div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
