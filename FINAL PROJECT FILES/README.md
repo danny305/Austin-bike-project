@@ -3,6 +3,9 @@
 Project Report.pdf - The final project report, which was also turned in on Canvas.
 
 ## Data exploration
+
+Cleaned_Data_Exploration.ipynb - Data exploration / visualization. Shows usage per day of the week, usage by month, distribution of ride duration, distribution of checkout time. Also shows bad kiosks (and removes these from the dataset). 
+
 Membership Breakdown.ipynb - Data exploration / visualization. Take in the raw B-Cycle data and then observe the member type breakdown and average ride duration over time. We see that the makeup of membership type changes over the years.
 
 ## Darwin models remarked upon in the final report
